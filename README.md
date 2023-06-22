@@ -1,5 +1,5 @@
 # Sudoku-Turing-Machine
-  Masina Turing care verifica daca un joc de sudoku primit este valid.
+ 	 Masina Turing care verifica daca un joc de sudoku primit este valid.
 
 Am inceput tema prin a imparti in mai multe probleme,cum erau punctate:linii,coloane
 si regiuni.M am gandit ca pot sa fac 3 masini Turing diferite care rezolva problemele
