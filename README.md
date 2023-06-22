@@ -1,5 +1,8 @@
 # Sudoku-Turing-Machine
  	 Masina Turing care verifica daca un joc de sudoku primit este valid.
+   
+Codul temei putea fi scris in xslx facand tabelul tranzitiilor si transformat folosind
+un script de python in cod .tms pentru a fi putea rulat pe online turing machine simulator.
 
 Am inceput tema prin a imparti in mai multe probleme,cum erau punctate:linii,coloane
 si regiuni.M am gandit ca pot sa fac 3 masini Turing diferite care rezolva problemele
